@@ -16,9 +16,10 @@ body > * {
 }
 
 .at-footer {
+    position: -x-sticky;
     position: sticky;
     width: 100%;
-    bottom: 30px;
+    bottom: 0px;
     left: 0;
     z-index: 1002;
 }

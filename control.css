@@ -407,7 +407,7 @@ input[type='range']::-moz-range-thumb {
     }
 
     .at-sidebar {
-        display: none;
+        /*display: none;*/
     }
 
     .at-viewport {

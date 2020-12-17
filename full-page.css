@@ -16,8 +16,7 @@ body > * {
 }
 
 .at-footer {
-    position: -x-sticky;
-    position: sticky;
+    position: fixed;
     width: 100%;
     bottom: 0px;
     left: 0;
